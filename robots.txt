@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-PUBLISHED-DOMAIN/sitemap.xml
+Sitemap: https://xerocodeindia-creator.github.io/missmallickstore/sitemap.xml
